@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\bin\Debug\10-26 Class Library.exe.config
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\bin\Debug\10-26 Class Library.exe
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\bin\Debug\10-26 Class Library.pdb
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\obj\Debug\10-26 Class Library.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\obj\Debug\10-26 Class Library.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\obj\Debug\10-26 Class Library.exe
+C:\Users\user\source\repos\10-26 Class Library\10-26 Class Library\obj\Debug\10-26 Class Library.pdb
